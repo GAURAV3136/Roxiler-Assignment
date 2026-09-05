@@ -27,7 +27,7 @@ Use these accounts to log in and test different roles.
 
 ### Normal User
 - **Email:** `test1@example.com`
-- **Password:** `test1@example.com`
+- **Password:** `TestPass@123`
 - **Role:** `USER`
 - **Access:**
   - View stores
